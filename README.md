@@ -1,7 +1,7 @@
 # Measuring Crime Concentration Near MBTA Stations in Boston
 
 ## Team Members
-- Mohamad Gong  
+- Mohamad Gong (Project Manager)  
 - Yanlun Li  
 - Fei Han  
 - Kai  
